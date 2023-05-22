@@ -12,7 +12,7 @@ TODO("Crie uma solução em Koltin abstraindo esse domínio. O arquivo [desafio.
 
 ## Instruções para rodar o Código:
 
-    1. Abra o [KOTLIN PLAYGROUND](https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS44LjIxIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS5cbiAqIHBsYXkua290bGlubGFuZy5vcmdcbiAqL1xuZnVuIG1haW4oKSB7XG4gICAgcHJpbnRsbihcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9)
-    2. Copie o codigo
-    3. Rodar
+ 1. Abra o [KOTLIN PLAYGROUND](https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMS44LjIxIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS5cbiAqIHBsYXkua290bGlubGFuZy5vcmdcbiAqL1xuZnVuIG1haW4oKSB7XG4gICAgcHJpbnRsbihcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9)
+ 2. Copie o codigo
+ 3. Rodar
 
